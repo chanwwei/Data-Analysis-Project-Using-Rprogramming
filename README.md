@@ -1,5 +1,6 @@
 # Data-Analysis-Project-using-R programming
 Project Aims:
+
 To analyse the Singapore Airbnb listings dataset by answering the following research questions:
 
 i. Top 10 Most Expensive and Cheapest Neighbouhoods to book on Airbnb
